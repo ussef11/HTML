@@ -1,0 +1,56 @@
+<!DOCTYP html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <link href="https://fonts.googleapis.com/css2?family=Rowdies:wght@300&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=divice-width,intial-scale=1.0">
+    <title>javascript</title>
+    
+        <style> table, td {
+            border: 1px solid black;
+            border-collapse: collapse;
+          }
+
+        </style>
+</head>
+<body>
+
+
+<table>
+    <tr>
+        <td>Controle Continu</td>
+        <td rowspan="2" colspan="3">ce ci un titre de niveaux 1 : Pratique de HTML 
+            <br/>
+             <img src="icons8-redux-100.png" width="50" height="50"><br/>
+              ce ci une image</td>
+    </tr>
+    <tr>
+        <td>Controle Continu</td>
+    </tr>
+    <tr>
+        <td rowspan="2">liens hypertextes 
+            <menu>
+            <li> 
+                <a href="#">lien vers page html 1</a>
+            </li> 
+            <li> 
+                <a href="#">lien vers page html 2</a>
+            </li>
+            </menu>
+            liens hypertextes  image 
+            <br/>
+            <a href="page3.html"> 
+                <img   src="icons8-redux-100.png"  width="50" height="50" >
+            </a>
+            <br/>
+            rq:en Cliquant sur cette image le fichier page3.html s'ouvre
+        </td>
+            <td colspan="2">text marquer <br/>text Fort</td>
+            <td > Citation Longue</td>
+    </tr>
+    <tr> <TD>Text en indice H<sub>2</sub> et H<sub>2</sub>O</TD>
+        <TD>Text en indice H<sub>2</sub> et H<sub>2</sub>O</TD>
+        <td > Controle continu</td>
+    </tr>
+
+</table>
